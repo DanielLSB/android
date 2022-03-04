@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1078377330586",
+    "firebase_url": "https://mensaje-e4c06-default-rtdb.firebaseio.com",
+    "project_id": "mensaje-e4c06",
+    "storage_bucket": "mensaje-e4c06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078377330586:android:c4fb9861dba312dd4aac23",
+        "android_client_info": {
+          "package_name": "com.example.mensaje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078377330586-n0rtk93h89br007hdeompj6e3mg8smd6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo9pPA27kzIkj3qcZIl_VwtqnVjdc0c44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078377330586-n0rtk93h89br007hdeompj6e3mg8smd6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
